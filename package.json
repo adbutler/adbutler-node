@@ -1,0 +1,37 @@
+{
+  "name": "adbutler",
+  "version": "1.0.0",
+  "description": "AdButler API wrapper",
+  "keywords": [
+    "adbutler",
+    "ad serving",
+    "api"
+  ],
+  "homepage": "https://github.com/sparklit/adbutler-node",
+  "author": "AdButler <support@adbutler.com> (https://adbutler.com/)",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sparklit/adbutler-node.git"
+  },
+  "bugs:": "https://github.com/sparklit/adbutler-node/issues",
+  "engines": {
+    "node": ">= v0.10.0"
+  },
+  "main": "lib/adbutler.js",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.6"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "qs": "^6.3.0",
+    "request": "^2.72.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "npm install && node_modules/mocha/bin/mocha --opts mocha.opts"
+  }
+}
