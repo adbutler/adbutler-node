@@ -7,14 +7,14 @@
     "ad serving",
     "api"
   ],
-  "homepage": "https://github.com/sparklit/adbutler-node",
+  "homepage": "https://github.com/adbutler/adbutler-node",
   "author": "AdButler <support@adbutler.com> (https://adbutler.com/)",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/sparklit/adbutler-node.git"
+    "url": "git://github.com/adbutler/adbutler-node.git"
   },
-  "bugs:": "https://github.com/sparklit/adbutler-node/issues",
+  "bugs:": "https://github.com/adbutler/adbutler-node/issues",
   "engines": {
     "node": ">= v0.10.0"
   },
