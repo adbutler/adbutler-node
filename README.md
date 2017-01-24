@@ -1,6 +1,6 @@
 # AdButler node.js bindings
 
-[![Build Status](https://travis-ci.org/sparklit/adbutler-node.svg?branch=master)](https://travis-ci.org/sparklit/adbutler-node)
+[![Build Status](https://travis-ci.org/adbutler/adbutler-node.svg?branch=master)](https://travis-ci.org/adbutler/adbutler-node)
 
 These bindings are intended for use on the server side because they deal with
 secret keys explicitly.
