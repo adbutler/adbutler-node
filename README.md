@@ -113,4 +113,4 @@ $ npm test
 `ADBUTLER_TEST_API_KEY` environment variable.*
 
 ## License
-© 2016 SparkLIT. Released under the MIT license.
+© 2016–2017 SparkLIT. Released under the MIT license.
